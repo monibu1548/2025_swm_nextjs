@@ -36,3 +36,21 @@
 1. 로그인 및 회원가입 (Supabase Auth 연동)
 2. 랜딩페이지 구현
 3. Supabase에서 구현한 API 연동
+
+## 📘 단축 URL V1
+[단축 URL 서비스 v1](https://www.kyulabs.app/1eab1a95-c663-80f6-8166-d650f27d4bc5)
+
+[결과물 미리보기](https://2025-swm-nextjs-git-redirect-monibu1548s-projects.vercel.app/)
+
+| 에피소드 | 제목                                      | 링크                                                                                     | 코드                                                                                     |
+|----------|-------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| EP1      | Supabase 회원가입 및 신규 프로젝트 생성   | [강의자료 링크](https://www.kyulabs.app/1e8b1a95-c663-80a7-998a-e004a0696d92) | 없음                                                                                    |
+| EP2      | Supabase 개발환경 설치                   | [강의자료 링크](https://www.kyulabs.app/1dab1a95-c663-801e-853b-dcd2b840b035) | 없음                                                                                    |
+| EP3      | Supabase Hello world!                    | [강의자료 링크](https://www.kyulabs.app/1e8b1a95-c663-800f-a011-cd01f03af1c7) | [GitHub](https://github.com/monibu1548/2025_swm_supabase/pull/1)                        |
+| EP4      | Supabase PostgresSQL                     | [강의자료 링크](https://www.kyulabs.app/1dab1a95-c663-80ff-b75f-daf917fafdfb) | [GitHub](https://github.com/monibu1548/2025_swm_supabase/pull/2)                        |
+| EP5      | Supabase Architecture                    | [강의자료 링크](https://www.kyulabs.app/1eab1a95-c663-8083-a81b-c6c611301a4a) | [GitHub](https://github.com/monibu1548/2025_swm_supabase/pull/3)                        |
+| EP6      | Supabase URL 단축 서비스 로직 구현        | [강의자료 링크](https://www.kyulabs.app/1eab1a95-c663-80f7-ba54-ecece1ba4a53) | [GitHub](https://github.com/monibu1548/2025_swm_supabase/pull/4)                        |
+| EP7      | NextJS + Vercel 개발환경 설치            | [강의자료 링크](https://www.kyulabs.app/1eab1a95-c663-8049-ab74-cd4e0f3aeb1b) | [GitHub](https://github.com/monibu1548/2025_swm_nextjs/pull/1)                          |
+| EP8      | NextJS 메인페이지 구현 with Copilot      | [강의자료 링크](https://www.kyulabs.app/1eab1a95-c663-80e9-8d54-e74a6805ab8d) | [GitHub](https://github.com/monibu1548/2025_swm_nextjs/pull/2)                          |
+| EP9      | NextJS Redirect                          | [강의자료 링크](https://www.kyulabs.app/1eab1a95-c663-803e-9903-ff4b86a774d6) | [GitHub](https://github.com/monibu1548/2025_swm_nextjs/pull/3)                          |
+
